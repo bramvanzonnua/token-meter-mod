@@ -1,0 +1,9 @@
+{
+  "name": "token-meter",
+  "version": "0.3.0",
+  "description": "Status line with per-prompt tokens and $, session cost, context %, plan limits (5h/week) and cache countdown; /token-meter for details",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Bram van Zon"
+  }
+}
